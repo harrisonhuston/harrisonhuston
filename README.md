@@ -3,9 +3,6 @@
 I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy's Master of Science in Software Development Program. Professionally, I work in Software Quality Assurance and Testing, but have spent much of my career working in the Financial Services industry.
 
 <p>
-Feel free to learn more about me via the below links.
-</p>
-<p>
 <a href="https://www.linkedin.com/in/harrison-huston-948580196/">
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
 </a>
