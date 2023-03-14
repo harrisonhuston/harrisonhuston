@@ -3,11 +3,12 @@
 I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy's Master of Science in Software Development Program. Professionally, I work in Software Quality Assurance and Testing, but have spent much of my career working in the Financial Services industry.
 
 <p>
-<a href="https://www.linkedin.com/in/harrison-huston-948580196/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
-</a>
-<a href="https://harrisonhuston.github.io/">
-<img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
+  <a href="https://harrisonhuston.github.io/">
+  <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/harrison-huston-948580196/">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
+  </a>
 </p>
 
 ### Technologies, Tools, & Skills
