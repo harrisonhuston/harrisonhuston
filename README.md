@@ -7,7 +7,7 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
 </a>
 <a href="https://harrisonhuston.github.io/">
-<img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
+<img src="https://img.shields.io/badge/-Portfolio-Site-red?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
 </p>
 
 ### Technologies & Tools
