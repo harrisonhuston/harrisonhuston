@@ -7,9 +7,10 @@ Feel free to learn more about me via the below links.
 </p>
 <p>
 <a href="https://www.linkedin.com/in/harrison-huston-948580196/">
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn"></img>
+<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
 </a>
-<img src="https://img.shields.io/badge/-Portfolio-blue?style=for-the-badge&logo=appveyor">
+<a href="https://harrisonhuston.github.io/">
+<img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&?logo=appveyor&logo=githubpages" alt="Portfolio">
 </p>
 
 
