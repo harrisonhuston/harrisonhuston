@@ -12,8 +12,11 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 
 ### Technologies & Tools
 <p>
-I have experience and exposure with Python, Java, JavaScript, HTML, CSS, Vue.js, SQL, and Bootstrap.
+I have experience and exposure with Python, Java, JavaScript, HTML, CSS, Vue.js, SQL, Bootstrap, IntelliJ, PyCharm, and Visual Studio Code.
 </p>
+
+<p>
+Top Lan
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
 
