@@ -10,9 +10,9 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
 </p>
 
-### Technologies & Tools
+### Technologies, Tools, & Skills
 <p>
-I have experience and exposure with Python, Java, JavaScript, HTML, CSS, Vue.js, SQL, Bootstrap, IntelliJ, PyCharm, and Visual Studio Code.
+Some of the technologies, tools, and skills I have experience and exposure with include Python, Java, JavaScript, AJAX with XML and JSON, HTML, CSS, Vue.js, SQL, Bootstrap, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Unified Modeling Language (UML), IntelliJ, PyCharm, and Visual Studio Code.
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
