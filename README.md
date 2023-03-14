@@ -12,9 +12,7 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 
 ### Technologies & Tools
 <p>
-<img src="https://user-images.githubusercontent.com/66707636/177418846-a240c391-94b0-4202-b071-c60a4515b6d2.svg" alt="java" width="45px">
-<img src="https://user-images.githubusercontent.com/66707636/177418858-237ac6e5-9511-4bd4-9355-df59d18f2f81.svg" alt="javascript" width="45px">
-<img src="https://user-images.githubusercontent.com/66707636/177418998-d543d406-11ef-4c03-8c18-317ff7f467b7.svg" alt="python" width="45px">
+
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
