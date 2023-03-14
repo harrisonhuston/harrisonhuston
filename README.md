@@ -10,7 +10,7 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 <img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
 </p>
 
-
+### Technologies & Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
 
 <!--
