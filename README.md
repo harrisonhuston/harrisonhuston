@@ -5,7 +5,6 @@
 </a>
 
 
-![Harrison's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisonhuston&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
 
