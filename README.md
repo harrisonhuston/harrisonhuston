@@ -2,10 +2,11 @@
 
 I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy's Master of Science in Software Development Program. Professionally, I work in Software Quality Assurance and Testing, but have spent much of my career working in the Financial Services industry.
 
+<p>
 <a href="https://www.linkedin.com/in/harrison-huston-948580196/">
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
-
+</p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
