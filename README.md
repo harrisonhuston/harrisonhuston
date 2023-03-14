@@ -4,9 +4,9 @@
 <img src="https://user-images.githubusercontent.com/66707636/177416455-964d44cb-bdba-48bc-aae7-2b8f3a87b4b7.svg" alt="linkedin">
 </a>
 
-<p>
+
 [![Top Langs](https://github-readme-stats-harrisonhuston.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact&langs_count=6&bg_color=00000000)](https://github.com/harrisonhuston/github-readme-stats)
-</p>
+
 <!--
 **harrisonhuston/harrisonhuston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
