@@ -16,7 +16,7 @@ I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy
 Some of the technologies, tools, and skills I have experience and exposure with include Python, Java, JavaScript, AJAX with XML and JSON, HTML, CSS, Vue.js, SQL, Bootstrap, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Unified Modeling Language (UML), IntelliJ, PyCharm, and Visual Studio Code.
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **harrisonhuston/harrisonhuston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
