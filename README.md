@@ -1,6 +1,6 @@
 # Hi, I'm Harrison!
 
-I'm an aspiring Software Engineer and am currently enrolled in Boston Univeristy's Master of Science in Software Development Program. Professionally, I work in Software Quality Assurance and Testing, but have spent much of my career working in the Financial Services industry.
+I'm an aspiring Software Engineer and recently graduated from Boston Univeristy's Master of Science in Software Development Program. Professionally, I work in Software Quality Assurance and Testing, but have spent much of my career working in the Financial Services industry.
 
 <p>
   <a href="https://harrisonhuston.github.io/">
