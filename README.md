@@ -6,7 +6,7 @@ I'm an aspiring Software Engineer and recently graduated from Boston Univeristy'
   <a href="https://harrisonhuston.github.io/">
   <img src="https://img.shields.io/badge/-Portfolio Website-black?style=for-the-badge&?logo=appveyor&logo=github" alt="Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/harrison-huston-948580196/">
+  <a href="https://www.linkedin.com/in/harrisonhuston/">
   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&?logo=appveyor&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
