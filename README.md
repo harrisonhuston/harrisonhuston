@@ -13,7 +13,7 @@ Hello, my name is Harrison. I am a recent graduate from Boston University's Mast
 
 ### Technologies, Tools, & Skills
 <p>
-Some of the technologies, tools, and skills I have experience and exposure with include Python, Java, C#, JavaScript, AJAX with XML and JSON, HTML, CSS, Vue.js, SQL, Bootstrap, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Unified Modeling Language (UML), IntelliJ, PyCharm, and Visual Studio Code.
+Some of the technologies, tools, and skills I have experience and exposure with include Python, Java, C#, JavaScript, SQL, Business Rules Engine (BRE), AJAX with XML and JSON, HTML, CSS, Vue.js, SQL, Bootstrap, Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Unified Modeling Language (UML), IntelliJ, PyCharm, Azure DevOps, Visual Studio Code, Visual Studio, and Agile-Scrum.
 </p>
 
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harrisonhuston&layout=compact)](https://github.com/harrisonhuston/github-readme-stats)
